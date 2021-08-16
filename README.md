@@ -5,11 +5,11 @@ Here is the React Native Challenge from YosemiteLabs. Working here, we expect yo
 In this test, we aim:
 - Allow you to work with international data that you probably never seen before
 - Prove your React Skills by developing a simple App
-- Prove your design skills
+- Prove your ux/ui skills
 
 ## Objective
 
-You must create a React Native App that:
+You must create a React Native App using Typescript that:
 
 - Receive the CNPJ from the user, using an Input field, and format the CNPJ's 14 digits in a human readble format like: `xx.xxx.xxx/xxxx-xx`
 - Integrate with `https://public.fluxoresultados.com.br/v1/cnpj/{cnpj}` API, sending the CNPJ in a number-only format like: `xxxxxxxxxxxxxx`
@@ -28,7 +28,7 @@ Here is some Brazilian companies for you to test
 - 16501555000157 -> Stone (4th biggest brazilian payment company)
 - 76801166000179 -> O Boticário (One of biggest beauty and cosmetic companies)
 
-You can use any framework that you like (for example, you can use Expo to build your app). You also can use components libraries like React Native Paper and other Javascript libraries that you might find useful.
+You can use any framework that you like (for example, you can use Expo to build your app). You also can use components libraries like React Native Paper and other Typescript libraries that you might find useful.
 
 ## Context on the data
 
@@ -64,6 +64,6 @@ Pay attention to the status, dates and numeric fields. It should be formatted to
 
 ## Conclusion
 
-We expect this challenge to be done in a week. After you finishes, you can share the repository with the code with `brennoflavio` (github). Or send the code by email to brenno@yosemitelabs.com
+We expect this challenge to be done in a week. After you finishes, you can share the repository with the code with `brennoflavio` (github) and `raindecastro` (github). Or send the code by email to brenno@yosemitelabs.com and rain@yosemitelabs.com
 
 Happy coding!
